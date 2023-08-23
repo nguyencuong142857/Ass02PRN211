@@ -1,0 +1,340 @@
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.exe
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.deps.json
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.runtimeconfig.json
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.pdb
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMain.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmAddMember.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMembers.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmReadMember.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmUpdateMember.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmAddOrder.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrders.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmReadOrder.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.frmSalesStatistics.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmUpdateOrder.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmAddProduct.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProducts.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmReadProduct.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmUpdateProduct.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmLogin.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserMain.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserOrders.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserProfile.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserUpdateProfile.resources
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.GenerateResource.cache
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfo.cs
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CopyComplete
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\refint\SalesWinApp.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.pdb
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.genruntimeconfig.cache
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\ref\SalesWinApp.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.exe
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.deps.json
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.runtimeconfig.json
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.pdb
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMain.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmAddMember.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMembers.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmReadMember.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmUpdateMember.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmAddOrder.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrders.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmReadOrder.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.frmSalesStatistics.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmUpdateOrder.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmAddProduct.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProducts.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmReadProduct.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmUpdateProduct.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmLogin.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserMain.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserOrders.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserProfile.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserUpdateProfile.resources
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.GenerateResource.cache
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfo.cs
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CopyComplete
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\refint\SalesWinApp.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.pdb
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.genruntimeconfig.cache
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\ref\SalesWinApp.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.exe
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.deps.json
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.runtimeconfig.json
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.pdb
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMain.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmAddMember.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMembers.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmReadMember.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmUpdateMember.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmAddOrder.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrders.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmReadOrder.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.frmSalesStatistics.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmUpdateOrder.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmAddProduct.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProducts.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmReadProduct.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmUpdateProduct.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmLogin.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserMain.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserOrders.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserProfile.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserUpdateProfile.resources
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.GenerateResource.cache
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfo.cs
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CopyComplete
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\refint\SalesWinApp.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.pdb
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.genruntimeconfig.cache
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\ref\SalesWinApp.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.exe
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.deps.json
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.runtimeconfig.json
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.pdb
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMain.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmAddMember.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMembers.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmReadMember.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Member_Management.frmUpdateMember.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmAddOrder.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrders.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmReadOrder.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.frmSalesStatistics.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Order_Management.frmUpdateOrder.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmAddProduct.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProducts.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmReadProduct.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Admin.Product_Management.frmUpdateProduct.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmLogin.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserMain.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserOrders.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserProfile.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.Normal_User.frmUserUpdateProfile.resources
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.GenerateResource.cache
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfo.cs
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CopyComplete
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\refint\SalesWinApp.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.pdb
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.genruntimeconfig.cache
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\ref\SalesWinApp.dll

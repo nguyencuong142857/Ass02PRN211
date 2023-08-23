@@ -1,0 +1,56 @@
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\SE_Ki_5\PRN211\PRN211-Assignment2\PRN211-Assignment2-main\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\SE_Ki_5\PRN211\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Video Record\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\ngnqu\Downloads\Ass02Solution_VuXuanAnh_HE161740\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
